@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" href="/favicon.png"/>
 ## Welcome to Fabricon OS
 
 You can run it in [Scratch](https://scratch.mit.edu/projects/462887325/) , [Turbowarp](turbowarp.org/462887325?fps=60&clones=Infinity) , or [on our site](blankwebsite.com)
